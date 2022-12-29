@@ -1,3 +1,6 @@
 # Hellow, world!
 
-I study netologiy
+I study in netologiy
+
+28.12.2022
+
